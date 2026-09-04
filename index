@@ -14,5 +14,30 @@
     padding: 16px;
     border: 5px solid #54acff;
     }
+    main{
+        background-color: #FFFFFF;
+        max-width: 800px;
+        margin: 0 auto;
+        padding: 16px;
+        color:#8330AA;
+    }
+    img{
+        width: 480px;
+        height: 240px;
+    }
+    </head>
+    <body>
+        <header>
+            <h1>Estrutura do html</h1>
+            <p>Como ele funciona?</p>
+        </header>
+    <main>
+        <img src="imagem.png" alt="Ilustração dividida em duas partes explicando o HTML. À esquerda, um editor de código com tags essesciais destacadas. Linhas explicativas conectam cada tag ao navegador no lado direito, mostrando como o código se transforma no título da aba e no conteúdo visual da página.">
+        <h1>Olá,/h1>
+            <h2>Compartilhando o meu estudo sobre o html e como ele funciona </h2></h2></h2>
+        </h1>
+    </main></p>
+        </header>
+    </body>
     </head>
 </html>
